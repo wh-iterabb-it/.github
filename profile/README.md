@@ -2,8 +2,24 @@
 
 The [wh.iterabb.it](https://wh.iterabb.it) Organization Github
 
+## Purpose 
 
-# APIs
+We aim to help nurture and develop the skills of like-minded security professionals and developers that are curious in nature. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of monetary, labor, and services to support other communities which have these same goals. 
+
+We have raised over $700.00 (and counting) for the following organizations through donations. 
+
+* [American Foundation for Suicide Prevention](https://afsp.org/)
+* [New York Common Pantry](https://nycommonpantry.org/)
+* [St Jude Children's Research Hospital](https://www.stjude.org/)
+* [The Transgender Resource Center of Long Island](https://trcli.org/)
+* [The Bail Project](https://bailproject.org/)
+* Election Integrity Foundation 
+
+
+Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile) 
+
+
+# Open Source and Free APIs
 
 ## [meowfacts](https://github.com/wh-iterabb-it/meowfacts)
 
