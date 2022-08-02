@@ -2,9 +2,9 @@
 
 The [wh.iterabb.it](https://wh.iterabb.it) Organization Github
 
-## Purpose 
+Contributors to Whiterabbit come from many different backgrounds in the fields of infosec, pentesting, data engineering, game development, hardware, and other human professions. We share a singular goal. . .
 
-We aim to help nurture and develop the skills of like-minded security professionals and developers that are curious in nature. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of monetary, labor, and services to support other communities which have these same goals. 
+We strive to connect talented, passionate people in order to share information, and contribute to the world around us. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of money, time and labor to support other communities which have simular goals. 
 
 We have raised over $700.00 (and counting) for the following organizations through donations. 
 
@@ -16,7 +16,9 @@ We have raised over $700.00 (and counting) for the following organizations throu
 * Election Integrity Foundation 
 
 
-Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile) 
+Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile). 
+
+You can also join our discord if you ask a member for an invite. 
 
 
 # Open Source and Free APIs
