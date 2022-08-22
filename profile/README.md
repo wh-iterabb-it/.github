@@ -20,6 +20,10 @@ Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile
 
 You can also join our discord if you ask a member for an invite. 
 
+## We Love Open Source  
+
+Whiterabbit members participates in a number of other organizations, we encourage projects being designed to be open source and learning resources from the start and encourage our members to recommend like projects to contribute to. In turn we also encourage those organizations and individuals who have benifit or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
+
 
 # Open Source and Free APIs
 
@@ -31,6 +35,7 @@ You can also join our discord if you ask a member for an invite.
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/wh-iterabb-it/meowfacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wh-iterabb-it/meowfacts/alerts/) 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/wh-iterabb-it/meowfacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wh-iterabb-it/meowfacts/context:javascript)
 [![codecov](https://codecov.io/gh/wh-iterabb-it/meowfacts/branch/master/graph/badge.svg)](https://codecov.io/gh/wh-iterabb-it/meowfacts)
+
 
 
 <p align="center">
