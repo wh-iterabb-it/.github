@@ -37,7 +37,6 @@ Whiterabbit members participates in a number of other organizations, we encourag
 [![codecov](https://codecov.io/gh/wh-iterabb-it/meowfacts/branch/master/graph/badge.svg)](https://codecov.io/gh/wh-iterabb-it/meowfacts)
 
 
-
 <p align="center">
-  All members and contributors must ahear to the community <a href="https://github.com/wh-iterabb-it/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code of Conduct</a>
+  All members and contributors must adhere to the community <a href="https://github.com/wh-iterabb-it/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
