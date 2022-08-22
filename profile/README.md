@@ -4,7 +4,7 @@ The [wh.iterabb.it](https://wh.iterabb.it) Organization Github
 
 Contributors to Whiterabbit come from many different backgrounds in the fields of infosec, pentesting, data engineering, game development, hardware, and other human professions. We share a singular goal. . .
 
-We strive to connect talented, passionate people in order to share information, and contribute to the world around us. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of money, time and labor to support other communities which have simular goals. 
+We strive to connect talented, passionate people in order to share information, and contribute to the world around us. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of capital, time and labor to support other communities which have simular goals. 
 
 We have raised over $700.00 (and counting) for the following organizations through donations. 
 
