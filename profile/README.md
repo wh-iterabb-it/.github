@@ -25,17 +25,26 @@ You can also join our discord if you ask a member for an invite.
 Whiterabbit members participates in a number of other organizations, we encourage projects being designed to be open source and learning resources from the start and encourage our members to recommend like projects to contribute to. In turn we also encourage those organizations and individuals who have benifit or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
 
 
-# Open Source 
+## Open Source 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=meowfacts)](https://github.com/wh-iterabb-it/meowfacts)
+<p align="center">
+  <a href="https://github.com/wh-iterabb-it/meowfacts"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=meowfacts" alt="Readme Card for meowfacts API" />
+  </a>
+  <a href="https://github.com/wh-iterabb-it/discord-notify"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=discord-notify" alt="Readme Card for Discord Notify" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=discord-notify)](https://github.com/wh-iterabb-it/discord-notify)
 
-# Packages
-
-[![Readme Card for sst](https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=sst)](https://github.com/wh-iterabb-it/sst)
-
-[![Readme Card for sst-ts](https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=sst-ts)](https://github.com/wh-iterabb-it/sst-ts)
+<p align="center">
+  <a href="https://github.com/wh-iterabb-it/sst"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=sst" alt="Readme Card for sst" />
+  </a>
+  <a href="https://github.com/wh-iterabb-it/sst"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=sst-ts" alt="Readme Card for sst-ts" />
+  </a>
+</p>
 
 
 <p align="center">
