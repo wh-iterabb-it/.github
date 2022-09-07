@@ -17,7 +17,7 @@ We have raised over $700.00 (and counting) for the following organizations throu
 
 Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile). 
 
-You can also join our [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](#) if you ask a member for an invite. 
+You can also join our [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](#). 
 
 ## We Love Open Source  
 
