@@ -15,9 +15,12 @@ We have raised over $700.00 (and counting) for the following organizations throu
 * [The Bail Project](https://bailproject.org/)
 * Election Integrity Foundation 
 
+## Outlink Socials 
+
 Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile). 
 
-You can also join our [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](#). 
+Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white) here.](#). 
+
 
 ## We Love Open Source  
 
@@ -44,6 +47,8 @@ Whiterabbit members participates in a number of other organizations, we encourag
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wh-iterabb-it&repo=sst-ts" alt="Readme Card for sst-ts" />
   </a>
 </p>
+
+
 
 
 <p align="center">
