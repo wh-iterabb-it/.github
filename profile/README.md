@@ -27,6 +27,10 @@ Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discor
 Whiterabbit members participates in a number of other organizations, we encourage projects being designed to be open source and learning resources from the start and encourage our members to recommend like projects to contribute to. In turn we also encourage those organizations and individuals who have benifit or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
 
 
+## Our Discord Bot
+
+* [Katelibby](https://katelibby.chat/)
+
 ## Open Source 
 
 <p align="center">
