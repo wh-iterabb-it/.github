@@ -29,7 +29,7 @@ Whiterabbit members participates in a number of other organizations, we encourag
 
 ## Our Discord Bot
 
-* [[Katelibby](https://img.shields.io/badge/Discord_Bot-502F4A.svg?logo=discord&logoColor=yellow)](https://katelibby.chat/)
+* [![Katelibby](https://img.shields.io/badge/Discord_Bot-502F4A.svg?logo=discord&logoColor=yellow)](https://katelibby.chat/)
 
 ## Open Source 
 
