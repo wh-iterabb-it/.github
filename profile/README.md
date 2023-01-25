@@ -21,7 +21,7 @@ Join [our Tiltify Organization here.](https://tiltify.com/+wh-iterabb-it/profile
 
 Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white) here.](https://top.gg/servers/1011299565674172436). 
 
-<iframe src="https://discord.com/widget?id=1004817181504180395&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 ## We Love Open Source  
 
