@@ -28,15 +28,8 @@ Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discor
 Whiterabbit members participates in a number of other organizations, we encourage projects being designed to be open source and learning resources from the start and encourage our members to recommend like projects to contribute to. In turn we also encourage those organizations and individuals who have benifit or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
 
 
-## Our Discord Bot
 
-* [![Katelibby](https://img.shields.io/badge/Katelibby-502F4A.svg?logo=discord&logoColor=yellow)](https://katelibby.chat/)
 
-### Our Slack Bot
-
-<div align="center">
-<a href="https://slack.com/oauth/v2/authorize?client_id=780455873664.4991787441283&scope=commands&user_scope="><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
-</div>
 
 ## Open Source 
 
@@ -59,8 +52,11 @@ Whiterabbit members participates in a number of other organizations, we encourag
   </a>
 </p>
 
+## Chat Bot
 
-
+  <p>
+    <a href="https://katelibby.chat/"><img src="https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/images/katelogo2.png?raw=true" /></a>
+  </p>
 
 <p align="center">
   All members and contributors must adhere to the community <a href="https://github.com/wh-iterabb-it/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code of Conduct</a>
