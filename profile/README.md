@@ -1,10 +1,10 @@
 # White Rabbit
 
-The [wh.iterabb.it](https://wh.iterabb.it) Organization Github
+The [wh.iterabb.it](https://wh.iterabb.it) Organization GitHub
 
-Contributors to Whiterabbit come from many different backgrounds in the fields of infosec, pentesting, data engineering, game development, hardware, and other human professions. We share a singular goal. . .
+Contributors to Whiterabbit come from many different backgrounds in the fields of infosec, pen-testing, data engineering, game development, hardware, and other human professions. We share a singular goal. . .
 
-We strive to connect talented, passionate people in order to share information, and contribute to the world around us. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of capital, time and labor to support other communities which have simular goals. 
+We strive to connect talented, passionate people to share information and contribute to the world around us. Our primary goal is to do good and help others learn and create things. Our secondary goal is contributions of capital, time, and labor to support other communities that have similar goals. 
 
 We have raised over $700.00 (and counting) for the following organizations through donations. 
 
@@ -25,7 +25,7 @@ Join [our ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discor
 
 ## We Love Open Source  
 
-Whiterabbit members participates in a number of other organizations, we encourage projects being designed to be open source and learning resources from the start and encourage our members to recommend like projects to contribute to. In turn we also encourage those organizations and individuals who have benifit or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
+Whiterabbit members participate in a number of other organizations, we encourage projects to be designed to be open source and learning resources from the start and encourage our members to recommend projects to contribute to. In turn, we also encourage those organizations and individuals who have benefited or learned from these resources to share them with others and support our shared goals of learning and inclusivity. 
 
 
 
